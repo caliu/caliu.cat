@@ -14,4 +14,7 @@ index.html: src/header.html src/caliu.html src/footer.html
 	mkdir -p $*
 	cat $+ > $@
 
-.PHONY: all
+server:
+	python3 -m http.server
+
+.PHONY: all server
