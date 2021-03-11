@@ -1,0 +1,11 @@
+ /* TEAM */
+President: Aniol Marti
+Secretary: Rafael Carreras
+Treasurer: Josep Maria Ferrer
+Administrative Contact: junta [at] caliu [dot] cat
+System administration contact: masovers [at] caliu [dot] cat
+Twitter: @caliu_cat
+ 
+/* SITE */
+Language: Catalan, English, Spanish
+Tools: HTML, CSS
